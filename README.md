@@ -71,10 +71,19 @@
 - **Stack:** `TypeScript`, `Node.js`, `Zod`, `Yaml`, `Commander`, `tsup`, `MCP Standard`
 - **Impact:** Eliminates configuration drift across AI coding agents (*Claude Code, Cursor, Cline, Hermes, Antigravity*), providing unified skill and rule synchronization.
 
-#### 2. E-Commerce & Workshop Automation Engine (Abo Eslam Silver)
-- **Role:** Full-Stack & Automation Architect
-- **Stack:** `React 19`, `Vite`, `Tailwind CSS v4`, `Express 5`, `Zustand`, `Baileys (WhatsApp Automation)`
-- **Impact:** Comprehensive workshop management ERP integrating real-time catalog syncing, interactive 2.8x loupe product inspection, automated WhatsApp order processing, and client workflow tracking.
+#### 2. Abo Eslam Silver — AI-Powered E-Commerce & Workshop ERP
+> `🔒 Proprietary Commercial Platform (Enterprise Client / NDA)`
+
+- **Role:** Lead Architect & Full-Stack Systems Engineer
+- **Core Architecture:**
+  - **Client Storefront:** React 19, TypeScript, Vite, Tailwind CSS v4, Zustand, Custom 2.8x Loupe Inspection
+  - **Backend API & Gatekeeper:** Express 5, Node.js, Custom RBAC Security Middleware
+  - **Database & Persistence:** Supabase PostgreSQL, Realtime Synchronization, Row-Level Security (RLS)
+  - **Conversational AI Engine:** Google Gemini AI + Baileys WhatsApp Automation Gateway with dynamic persona switching, ring sizing intelligence, and automated order processing
+- **Key Engineering Achievements:**
+  - 🛡️ **7-Tier Hierarchical RBAC:** Fine-grained permission matrix covering executive leadership, branch management, workshop artisans, and sales staff.
+  - ⚡ **Realtime Inventory Resiliency:** Solved multi-branch stock race conditions with stateful audit logging and WhatsApp socket auto-reconnection.
+  - 🤖 **Autonomous Sales Flow:** End-to-end customer conversational pipeline from product discovery to automated order receipt dispatch.
 
 #### 3. Sales Catalog Engine (Cloudflare Edge)
 - **Role:** Systems & DevOps Engineer
