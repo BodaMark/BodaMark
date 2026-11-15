@@ -1,85 +1,61 @@
 ﻿<div align="center">
 
-# Abdullah (@bodzilla99)
+# Abdullah
 
-**Full-Stack Software Engineer & AI Systems Builder**
+**Software Engineer & Systems Architect**  
+*Building scalable web platforms, distributed backends, and autonomous agent workflows.*
 
-```
-TypeScript  •  React 19  •  Next.js  •  Node.js  •  Express  •  Supabase  •  PostgreSQL  •  Redis
-```
+[GitHub](https://github.com/bodzilla99)
 
 </div>
 
 ---
 
-### 💡 Engineering Overview
+## Technical Competencies
 
-Full-Stack Engineer dedicated to building **production-ready web architectures**, **autonomous AI agent systems**, and **high-performance developer tooling**. 
-
-Focused on:
-- **Type-Safety & Scalability:** Robust enterprise patterns, clean domain boundaries, and zero-drift configurations.
-- **Modern User Interfaces:** Mobile-first, zero-overflow layouts following the Linear Dark design philosophy.
-- **Intelligent Workflows:** Autonomous agents, tool-calling pipelines, and reliable external API/service integrations.
-
----
-
-### 🛠️ Technical Stack & Tools
-
-#### 💻 Core Languages & Frameworks
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,py,react,nextjs,vite,tailwind" alt="Languages & Frontend" />
-</p>
-
-#### ⚙️ Backend, Systems & Databases
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,supabase,postgres,redis,sqlite,docker" alt="Backend & Systems" />
-</p>
-
-#### 🤖 AI Architecture, Agents & Automation
-- **Agent Protocols:** Model Context Protocol (MCP), Antigravity SDK, Hermes Agent Engine
-- **Automation & Headless:** Playwright, Puppeteer, WhatsApp Business Automation (Baileys)
-- **AI Integrations:** Google Gemini API, Multi-turn Agents, Tool Calling, Structured Outputs
-
-#### ☁️ DevOps & Infrastructure
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cloudflare,workers,git,github,githubactions,linux" alt="DevOps" />
-</p>
-<sub>Cloudflare Pages & Workers, Edge Functions, GitHub Actions CI/CD pipelines</sub>
+- **Languages:** TypeScript, JavaScript (ESNext), Python, SQL
+- **Frontend Systems:** React 19, Next.js, Vite, Tailwind CSS, Zustand, Mobile-First Architecture
+- **Backend & Persistence:** Node.js, Express 5, Supabase (PostgreSQL), Redis, SQLite
+- **Automation & Agentic Systems:** Baileys (WhatsApp Protocol), Headless Automation (Playwright/Puppeteer), Model Context Protocol (MCP), Google Gemini API
+- **Infrastructure & Delivery:** Cloudflare Pages & Workers, Docker, GitHub Actions CI/CD, Linux
 
 ---
 
-### 📌 Featured Engineering Showcases
+## Selected Engineering Case Study
 
-#### 1. [AgentSync](https://github.com/bodzilla99) — Multi-Agent Configuration Orchestrator
-- **Role:** Lead Architect & Developer
-- **Stack:** `TypeScript`, `Node.js`, `Zod`, `Yaml`, `Commander.js`, `MCP Standard`
-- **Impact:** Unified configuration and rule synchronization engine across AI coding agents (*Claude Code, Cursor, Cline, Hermes, Antigravity*). Prevents workspace configuration drift.
+### Abo Eslam Silver — AI-Powered E-Commerce & Workshop ERP
+*Production Commercial Platform (Client Confidential / NDA)*
 
-#### 2. Abo Eslam Silver — AI-Powered E-Commerce & Workshop ERP
-> `🔒 Proprietary Commercial Platform (Enterprise Client / NDA)`
+#### Context
+A luxury handcrafted silver brand operating physical retail branches and high-volume direct-to-consumer messaging required a unified infrastructure to replace fragmented manual operations. The challenge was to connect real-time physical store inventory, custom jewelry workshop workflows, and customer conversational sales into a single high-availability system.
 
-- **Role:** Lead Architect & Full-Stack Systems Engineer
-- **Core Architecture:**
-  - **Client Storefront:** React 19, TypeScript, Vite, Tailwind CSS, Zustand, Custom 2.8x Loupe Inspection
-  - **Backend API & Gatekeeper:** Express 5, Node.js, Custom RBAC Security Middleware
-  - **Database & Persistence:** Supabase PostgreSQL, Realtime Synchronization, Row-Level Security (RLS)
-  - **Conversational AI Engine:** Google Gemini AI + Baileys WhatsApp Gateway with dynamic persona switching, sizing intelligence, and automated order intake
-- **Key Engineering Achievements:**
-  - 🛡️ **7-Tier Hierarchical RBAC:** Fine-grained permission matrix covering executive leadership, branch managers, workshop artisans, and sales agents.
-  - ⚡ **Realtime Inventory Resiliency:** Solved multi-branch stock race conditions with stateful audit logging and WhatsApp socket auto-reconnection.
-  - 🤖 **Autonomous Sales Flow:** End-to-end customer conversational pipeline from product discovery to automated order receipt dispatch.
+#### Role
+**Lead Systems Architect & Full-Stack Engineer**  
+Engineered the entire software stack end-to-end: system architecture, relational database schema, administrative dashboards, secure API layers, and autonomous conversational gateways.
 
-#### 3. Sales Catalog Engine (Cloudflare Edge)
-- **Role:** Systems & DevOps Engineer
-- **Stack:** `Python Data Pipelines`, `Cloudflare Pages`, `Wrangler CLI`, `Zero-Overflow Mobile-First UI`
-- **Impact:** Ultra-fast, edge-deployed digital catalog built for instant mobile performance with automated batch compilation.
+#### Architecture & Key Decisions
+
+- **7-Tier Hierarchical Access Control (RBAC):**  
+  Architected a strict permission matrix enforcing least-privilege boundaries across seven distinct operational roles: Executive Management, Branch Leadership, Workshop Supervisors, In-Store Sales Agents, Inventory Clerks, Custom Order Artisans, and System Administrators.
+
+- **Autonomous WhatsApp Sales & Support Engine:**  
+  Engineered an event-driven conversational gateway using Baileys and Google Gemini API. Implemented multi-persona prompt orchestration, dynamic ring sizing intelligence, real-time product recommendation queries, and automated invoice receipt dispatch.
+
+- **Data Consistency & Branch Synchronization:**  
+  Designed the relational schema on Supabase PostgreSQL with strict Row-Level Security (RLS) policies. Built real-time socket synchronization between store POS checkouts and warehouse stock to eliminate race conditions across distributed branch locations.
+
+- **High-Fidelity Storefront & Inspection Interface:**  
+  Built a zero-overflow, mobile-optimized React 19 storefront with Tailwind CSS. Developed a custom 2.8x loupe inspection component allowing customers to inspect handcrafted stone settings and silver hallmarks at sub-pixel clarity.
+
+#### Outcomes & Technical Impact
+- Consolidated physical branch stock, customer requests, and workshop tracking into a single source of truth.
+- Automated the direct sales qualification pipeline on WhatsApp, handling customer inquiries with sub-second contextual responses.
+- Delivered a zero-downtime, edge-deployed platform with resilient offline reconnection routines for messaging sessions.
 
 ---
 
 <div align="center">
 
-🤝 **Open for high-impact software engineering roles, enterprise agent systems, and freelance architectures.**
-
-[![GitHub](https://img.shields.io/badge/GitHub-bodzilla99-181717?style=flat&logo=github&logoColor=white)](https://github.com/bodzilla99)
+Available for select systems engineering, technical architecture, and autonomous workflow design.
 
 </div>
