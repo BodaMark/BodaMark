@@ -1,66 +1,50 @@
 ﻿<div align="center">
 
-# Hi there, I'm Abdullah (@bodzilla99) 👋
+# Abdullah (@bodzilla99)
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=61AFEF&center=true&vcenter=true&width=620&lines=Full-Stack+Engineer+%26+Autonomous+AI+Architect;React+19+%7C+TypeScript+%7C+Next.js+%7C+Node.js;Express+%7C+Supabase+%7C+Redis+%7C+Cloudflare+Edge;Building+AgentSync+%26+Intelligent+Automation+Pipelines;Bridging+Physical+Craftsmanship+with+Digital+Systems" alt="Typing Banner" />
-</a>
+**Full-Stack Software Engineer & AI Systems Builder**
 
-<br/>
-
-[![GitHub followers](https://img.shields.io/github/followers/bodzilla99?label=Followers&style=social)](https://github.com/bodzilla99)
-[![GitHub stars](https://img.shields.io/github/stars/bodzilla99?style=social)](https://github.com/bodzilla99)
+```
+TypeScript  •  React 19  •  Next.js  •  Node.js  •  Express  •  Supabase  •  PostgreSQL  •  Redis
+```
 
 </div>
 
 ---
 
-### 🚀 Executive Overview & Positioning
+### 💡 Engineering Overview
 
-> **"Engineering type-safe, autonomous architectures and seamless developer infrastructure."**  
-> Full-Stack & AI Systems Engineer with proven experience delivering production-grade web applications, automated business backends, and multi-agent AI ecosystems. Dedicated to high-leverage software design, zero-drift environments, and crisp, mobile-first UI systems.
+Full-Stack Engineer dedicated to building **production-ready web architectures**, **autonomous AI agent systems**, and **high-performance developer tooling**. 
+
+Focused on:
+- **Type-Safety & Scalability:** Robust enterprise patterns, clean domain boundaries, and zero-drift configurations.
+- **Modern User Interfaces:** Mobile-first, zero-overflow layouts following the Linear Dark design philosophy.
+- **Intelligent Workflows:** Autonomous agents, tool-calling pipelines, and reliable external API/service integrations.
 
 ---
 
-### 🧰 Comprehensive Technical Arsenal
+### 🛠️ Technical Stack & Tools
 
-#### 💻 Programming & Scripting Languages
+#### 💻 Core Languages & Frameworks
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,py,bash" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=ts,js,py,react,nextjs,vite,tailwind" alt="Languages & Frontend" />
 </p>
 
-#### 🎨 Frontend Architecture & Modern Web
+#### ⚙️ Backend, Systems & Databases
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,html,css" alt="Frontend" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,supabase,postgres,redis,sqlite,docker" alt="Backend & Systems" />
 </p>
-<sub><em>Also proficient in: Framer Motion, Zustand, Lenis Smooth Scroll, Lucide / Phosphor Icons, Linear Dark Design System</em></sub>
 
-#### ⚙️ Backend, Microservices & Databases
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,supabase,postgres,redis,sqlite" alt="Backend & DB" />
-</p>
-<sub><em>Also proficient in: Baileys (WhatsApp Web Protocol & Bot Automation), RESTful APIs, Session Stores</em></sub>
+#### 🤖 AI Architecture, Agents & Automation
+- **Agent Protocols:** Model Context Protocol (MCP), Antigravity SDK, Hermes Agent Engine
+- **Automation & Headless:** Playwright, Puppeteer, WhatsApp Business Automation (Baileys)
+- **AI Integrations:** Google Gemini API, Multi-turn Agents, Tool Calling, Structured Outputs
 
-#### 🤖 AI Engineering & Autonomous Agents
+#### ☁️ DevOps & Infrastructure
 <p align="left">
-  <img src="https://img.shields.io/badge/Antigravity%20SDK-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hermes%20Agent-8A2BE2?style=for-the-badge&logo=robot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Model%20Context%20Protocol%20(MCP)-4B32C3?style=for-the-badge&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Playwright%20/%20Puppeteer-45ba4b?style=for-the-badge&logo=headlessui&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=cloudflare,workers,git,github,githubactions,linux" alt="DevOps" />
 </p>
-<sub><em>Core Focus: LLM Tool-Calling, Agent Skills Authoring, Multi-Agent Coordination, Dynamic Workflows</em></sub>
-
-#### ☁️ Cloud, Edge Deployment & DevOps
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cloudflare,workers,git,github,githubactions,docker" alt="Cloud & DevOps" />
-</p>
-<sub><em>Infrastructure: Cloudflare Pages & Workers, Wrangler CLI, Automated CI/CD, Containerization</em></sub>
-
-#### 📐 Design Systems & Precision Crafting
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=figma" alt="Design" />
-</p>
-<sub><em>Cross-Disciplinary: UI/UX System Design, Vector Graphics (Inkscape), Precision Fiber Laser CNC Automation</em></sub>
+<sub>Cloudflare Pages & Workers, Edge Functions, GitHub Actions CI/CD pipelines</sub>
 
 ---
 
@@ -68,47 +52,34 @@
 
 #### 1. [AgentSync](https://github.com/bodzilla99) — Multi-Agent Configuration Orchestrator
 - **Role:** Lead Architect & Developer
-- **Stack:** `TypeScript`, `Node.js`, `Zod`, `Yaml`, `Commander`, `tsup`, `MCP Standard`
-- **Impact:** Eliminates configuration drift across AI coding agents (*Claude Code, Cursor, Cline, Hermes, Antigravity*), providing unified skill and rule synchronization.
+- **Stack:** `TypeScript`, `Node.js`, `Zod`, `Yaml`, `Commander.js`, `MCP Standard`
+- **Impact:** Unified configuration and rule synchronization engine across AI coding agents (*Claude Code, Cursor, Cline, Hermes, Antigravity*). Prevents workspace configuration drift.
 
 #### 2. Abo Eslam Silver — AI-Powered E-Commerce & Workshop ERP
 > `🔒 Proprietary Commercial Platform (Enterprise Client / NDA)`
 
 - **Role:** Lead Architect & Full-Stack Systems Engineer
 - **Core Architecture:**
-  - **Client Storefront:** React 19, TypeScript, Vite, Tailwind CSS v4, Zustand, Custom 2.8x Loupe Inspection
+  - **Client Storefront:** React 19, TypeScript, Vite, Tailwind CSS, Zustand, Custom 2.8x Loupe Inspection
   - **Backend API & Gatekeeper:** Express 5, Node.js, Custom RBAC Security Middleware
   - **Database & Persistence:** Supabase PostgreSQL, Realtime Synchronization, Row-Level Security (RLS)
-  - **Conversational AI Engine:** Google Gemini AI + Baileys WhatsApp Automation Gateway with dynamic persona switching, ring sizing intelligence, and automated order processing
+  - **Conversational AI Engine:** Google Gemini AI + Baileys WhatsApp Gateway with dynamic persona switching, sizing intelligence, and automated order intake
 - **Key Engineering Achievements:**
-  - 🛡️ **7-Tier Hierarchical RBAC:** Fine-grained permission matrix covering executive leadership, branch management, workshop artisans, and sales staff.
+  - 🛡️ **7-Tier Hierarchical RBAC:** Fine-grained permission matrix covering executive leadership, branch managers, workshop artisans, and sales agents.
   - ⚡ **Realtime Inventory Resiliency:** Solved multi-branch stock race conditions with stateful audit logging and WhatsApp socket auto-reconnection.
   - 🤖 **Autonomous Sales Flow:** End-to-end customer conversational pipeline from product discovery to automated order receipt dispatch.
 
 #### 3. Sales Catalog Engine (Cloudflare Edge)
 - **Role:** Systems & DevOps Engineer
-- **Stack:** `Python Data Pipelines`, `Cloudflare Pages`, `Wrangler`, `Zero-Overflow Mobile-First UI`
-- **Impact:** Ultra-fast, edge-deployed digital catalog built for instant mobile performance with automated batch catalog compilation.
-
----
-
-### 📊 GitHub Activity & Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bodzilla99&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Abdullah's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bodzilla99&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bodzilla99&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
+- **Stack:** `Python Data Pipelines`, `Cloudflare Pages`, `Wrangler CLI`, `Zero-Overflow Mobile-First UI`
+- **Impact:** Ultra-fast, edge-deployed digital catalog built for instant mobile performance with automated batch compilation.
 
 ---
 
 <div align="center">
-  
-🤝 **Open for collaboration on cutting-edge AI agent systems, full-stack architectures, and high-performance developer tooling.**
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bodzilla99)
+🤝 **Open for high-impact software engineering roles, enterprise agent systems, and freelance architectures.**
+
+[![GitHub](https://img.shields.io/badge/GitHub-bodzilla99-181717?style=flat&logo=github&logoColor=white)](https://github.com/bodzilla99)
 
 </div>
