@@ -5,8 +5,6 @@
 **Software Engineer & Systems Architect**  
 *Building scalable web platforms, distributed backends, and autonomous agent workflows.*
 
-[GitHub](https://github.com/bodzilla99)
-
 </div>
 
 ---
